@@ -11,7 +11,7 @@ Solution:
 
 Solution : AgriGo
 Project Link - https://agrigo-2.onrender.com/
-Benefits
+ - Benefits
 1. Transparent and Trustworthy Transactions: AgriGo ensures transparency and trust within the agri-food supply chain. By connecting warehouses, distributors, and transporters, all transactions become more reliable. The platform verifies and validates all stakeholders, reducing the risk of fraud or misunderstandings. This increased trust fosters stronger business relationships and reduces the chances of disputes.
 2. Real-Time Tracking: All parties can track product transit with live location and driver details, allowing direct driver contact for coordination.
 3. Product Insurance: Transporter-provided product insurance ensures reliability and reduces the risk of loss.
